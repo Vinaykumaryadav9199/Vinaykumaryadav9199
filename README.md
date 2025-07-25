@@ -53,6 +53,6 @@ I'm **Vinay Kumar Yadav**, a passionate **Java Full Stack Developer** with a str
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinaykumaryadav9199/)
+- 🌐 [Portfolio Website](https://vinaycuh.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinaykumaryadavcuh)
 - 💻 [GitHub](https://github.com/Vinaykumaryadav9199)
