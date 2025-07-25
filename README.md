@@ -30,18 +30,7 @@ I'm **Vinay Kumar Yadav**, a passionate **Java Full Stack Developer** with a str
 
 ---
 
-## 📂 Live Projects
 
-- 🧑‍💼 **Employee Management App** — Spring Boot + Angular  
-  🔗 [Live Demo](https://your-demo-link.com) | 💻 [Source Code](https://github.com/Vinaykumaryadav9199/employee-app)
-
-- 📦 **E-Commerce Web App** — Microservices + Docker  
-  🔗 [Live Demo](https://your-demo-link.com) | 💻 [Source Code](https://github.com/Vinaykumaryadav9199/ecommerce-microservices)
-
-- 💬 **Chat Application** — WebSocket + JWT Auth  
-  🔗 [Live Demo](https://your-demo-link.com) | 💻 [Source Code](https://github.com/Vinaykumaryadav9199/chat-app)
-
-> *Replace demo links with actual URLs if live*
 
 ---
 
